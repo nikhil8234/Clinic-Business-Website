@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Multi-Specialty Clinic",
+  "description": "Comprehensive multi-specialty medical clinic offering patient-first specialty care, board-certified doctors, diagnostic services, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
